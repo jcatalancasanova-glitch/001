@@ -1,0 +1,4 @@
+BotFutbol/
+├─ bot.py
+├─ .env.example
+└─ .gitignore
